@@ -1,7 +1,11 @@
 include webchela-extensions/chrome/bypass-paywalls-1.7.6.crx
+include webchela-extensions/chrome/bypass-paywalls-1.7.9.crx
 include webchela-extensions/chrome/singlefile-1.18.19.crx
 include webchela-extensions/chrome/ublock-origin-1.30.6.crx
+include webchela-extensions/chrome/ublock-origin-1.35.2.crx
 
 include webchela-extensions/firefox/bypass-paywalls-1.7.6.xpi
+include webchela-extensions/firefox/bypass-paywalls-1.7.9.xpi
 include webchela-extensions/firefox/singlefile-1.18.20.xpi
 include webchela-extensions/firefox/ublock-origin-1.30.6.xpi
+include webchela-extensions/firefox/ublock-origin-1.35.2.xpi
